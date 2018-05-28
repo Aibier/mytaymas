@@ -1,0 +1,8 @@
+<article class="media abouttherevenue">
+	<h2>About Avenue </h2>
+	<div class="media-body">
+	   <a class="pull-right" href="venuetravel.php"><img src="images/hotels/contempo.jpg"></a>
+	   <p>Enjoy exclusive travel deals when you book your next holiday to Australia at the event, offered by our participating travel agencies Chan Brothers Travel, CTC Travel, MISA Travel and Seiki Travel.Visit Adelaide’s most elegant boulevard, North Terrace, home to the city’s most important cultural institutions. Apart from State Parliament, Adelaide Casino and the Convention Centre, this tree-lined street hosts the Art Gallery of South Australia, the South Australian Museum and The University of Adelaide. Round off your walk by visiting the Botanic Gardens, a legacy of Adelaide’s past with historic buildings and three striking glasshouses on site.</p>
+	   <p class="hidden-sm hidden-xs">Nestled between the hills and the ocean, Adelaide is quickly becoming the lifestyle capital of Australia. Already celebrated for its wine and food culture, this elegant city is undergoing a rapid transformation with a burgeoning small-bar scene, world-class festivals and amazing eco-adventures. Stroll through Adelaide’s laneways where warehouses and shops are being transformed into bars serving everything from tapas to Serbian cuisine. Hit the Peel-Leigh Street precinct, kicking off with a wine at Clever Little Tailor before dropping in BarBushka for a cocktail. Don’t miss Proof, a buzzy little joint.</p>
+	</div><!-- media-body -->
+</article><!-- media -->
